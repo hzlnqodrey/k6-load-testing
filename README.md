@@ -1,1 +1,1 @@
-I trust this guys over the tutorial: (Performance Testing | k6 Integration with Local Grafana & InfluxDB)[https://www.youtube.com/watch?v=qnPGSRc-BhU]
+I trust this guys over the tutorial: [Performance Testing | k6 Integration with Local Grafana & InfluxDB](https://www.youtube.com/watch?v=qnPGSRc-BhU)
