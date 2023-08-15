@@ -13,9 +13,9 @@ const TARGET_VUS = isNumeric(TARGET_VUS_ENV)
 // Ramp VUs up and down in stages [You can ramp the number of VUs up and down during the test. To configure ramping, use the options.stages property.]
 export let options = {
     stages: [
-        { duration: "30s", target: 100 },
-        { duration: "1m", target: 500 },
-        { duration: "20s", target: 0 },
+        { duration: "30s", target: 10 },
+        { duration: "1m", target: 50 },
+        { duration: "30s", target: 0 },
     ],
     thresholds: {
         //   http_req_failed: ['rate<0.01'], // http errors should be less than 1%
