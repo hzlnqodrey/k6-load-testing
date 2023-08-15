@@ -1,0 +1,8 @@
+Grafana Docs
+=> https://grafana.com/docs/?plcmt=learn-nav
+
+InfluxDB Chronograf Docs
+=> https://docs.influxdata.com/chronograf/v1.10/
+
+Getting Started with K6
+=> https://k6.io/docs/get-started/running-k6/
